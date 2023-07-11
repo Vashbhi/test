@@ -1,0 +1,9 @@
+{
+    "url": "https://vashbhi.github.io/test/xss.yaml",
+    "urls": [
+        {
+            "url": "https://vashbhi.github.io/test/xss.yaml",
+            "name": "bhimsec"
+        }
+    ]
+}
